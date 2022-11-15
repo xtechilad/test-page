@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;;
+}
+
+.balance {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-weight: 500;
+}
+
+h3 {
+    color: #800080;
+}
+
+.referral-code {
+    width: 100%;
+    border-width: 3px;
+    padding: 10px 60px;
+    margin: 16px 0;
+    letter-spacing: 34px;
+    font-size: 20px;
+
+    background: linear-gradient(#EEEEEE, #EEEEEE) padding-box, linear-gradient(to right, #FFC04E, #800080) border-box;
+    border-radius: 10px;
+    border: 3.2px solid transparent;
+}
+
+.refer-code {
+    padding: 10px 10px;
+    margin: 12px 0;
+    letter-spacing: 12px;
+    font-size: 16px;
+    border: solid #CCCCCC 3px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.referral-code span, .refer-code span {
+    letter-spacing: 0;
+}
+
+.skill {
+    font-size: 14px;
+    padding: 8px 8px;
+    margin-right: 12px;
+    margin-top: 10px;
+    border: solid #FFF 1px;
+    border-radius: 20px;
+}
